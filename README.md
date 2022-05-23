@@ -108,5 +108,19 @@ https://colab.research.google.com/github/ywchiu/python_basic/blob/master/Review_
 - https://code.visualstudio.com/
 
 
+## 關注大數軟體
 
+- 大數學堂
+https://largitdata.com/courses/
 
+- 大數軟體
+https://largitdata.com/
+
+- 大數軟體粉絲頁
+https://www.facebook.com/largitdata
+
+- 大數學堂基礎課程頻道
+https://www.youtube.com/channel/UCSmvtvsTjqkvKLqpmsFWRQw
+
+- 大數學堂實戰頻道
+https://www.youtube.com/channel/UCFdTiwvDjyc62DBWrlYDtlQ
